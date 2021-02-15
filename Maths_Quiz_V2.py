@@ -1,5 +1,5 @@
-#Maths_Quiz_V1.py
-#A welcome screen to the programme
+#Maths_Quiz_V2.py
+#A questions screen to the programme
 #L.Pauling Feb 2021
 
 #Import tkinter modules for GUI
